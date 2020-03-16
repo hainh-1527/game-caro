@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.Board {
+  width: 300px;
+  margin-top: 100px;
+  display: inline-block;
+}
+
+.Board .item {
+  float: left;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 60px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.ResetGame {
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  padding: 5px 10px;
+}
