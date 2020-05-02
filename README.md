@@ -1,10 +1,10 @@
-###Demo:
+## Demo:
 https://hainh-1527.github.io/game-caro/
 
-###Setup local
+## Setup local
 Step 1:
-`npm i`
+### `npm i`
 Step 2:
-`npm run build`
+### `npm run build`
 Step 3:
-`npm start`
+### `npm start`
